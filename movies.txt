@@ -1,0 +1,18 @@
+3|maria|2012|23.3|yes
+1|kjhgf|2001|23.3|yes
+2|jhgff|2004|33.3|yes
+4|ana|2004|22.2|no
+5|mama|2004|60.2|yes
+6|the nun|2004|60.2|no
+7|ana|2008|44.4|yes
+8|bunica|2006|55.5|no
+9|the nun|2004|60.2|yes
+10|the nun|2004|60.2|no
+11|ana|2001|55.5|no
+12|mama|2001|22.2|yes
+0|hulk|2007|55.5|yes
+13|superman|2005|44.4|yes
+14|spiderman|2004|44.4|no
+15|batman|2004|60.2|no
+16|joker|2001|60.2|no
+17|bunica|2006|55.5|no
